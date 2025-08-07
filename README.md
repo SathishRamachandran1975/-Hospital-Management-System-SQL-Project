@@ -49,8 +49,8 @@ KPI	Description
 
 
 ## 🗃️SQL File Structure
--<a href ="https://github.com/SathishRamachandran1975/-Hospital-Management-System-SQL-Project/blob/main/Hospital%20Management%20System%20SQL-Project.sql">SQL_FILE</a>
--<a href ="https://github.com/SathishRamachandran1975/-Hospital-Management-System-SQL-Project/blob/main/Hospital%20Management%20System%20SQL-Project.pdf">SQL_PDF</a>
+-<a href ="https://github.com/SathishRamachandran1975/-Hospital-Management-System-SQL-Project/blob/main/Hospital%20Management%20System%20SQL-Project.sql">SQL_FILE</a>||
+-<a href ="https://github.com/SathishRamachandran1975/-Hospital-Management-System-SQL-Project/blob/main/Hospital%20Management%20System%20SQL-Project.pdf">SQL_PDF</a>||
 -<a href ="https://github.com/SathishRamachandran1975/-Hospital-Management-System-SQL-Project/blob/main/HOSPITAL%20MANAGEMENT%20SYSTEM.pptx">SQL_PPT</a>
 - Database & Tables
     - `CREATE` scripts for all major hospital entities
@@ -101,6 +101,7 @@ KPI	Description
 
 ## 📌Click to View:
 -<a href ="https://github.com/SathishRamachandran1975/-Hospital-Management-System-SQL-Project/blob/main/Hospital%20Management%20System%20Schema%20Diagram.pdf">SCHEMEA_FILE</a>
+
 -<a href ="https://github.com/SathishRamachandran1975/-Hospital-Management-System-SQL-Project/blob/main/Hospital%20Management%20System%20Schema%20Diagram_page-0002.jpg">SCHEMA_DIAGRAM</a>
 
 ## 🏁Final Conclusion
